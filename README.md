@@ -8,4 +8,4 @@ University: Universidad Autónoma de Baja California
 Teacher: Eloísa del Carmen García Canseco
 
 ## Folder Description
-Project/Code contains the source code for the wave function generator written in arduino language (.ino)
+code/ folder contains the source code for the wave function generator written in arduino language (.ino)
