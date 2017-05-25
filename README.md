@@ -2,7 +2,9 @@
 
 ## This project was made as a requirement for passing the Instrumentation class. 
 Autors: Hiram Herrera & Osvaldo Rosales
+
 University: Universidad Autónoma de Baja California
+
 Teacher: Eloisa del Carmen García Canseco
 
 ## FOLDER DESCRIPTION
