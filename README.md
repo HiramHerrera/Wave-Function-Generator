@@ -1,6 +1,6 @@
 # Wave Function Generator
 
-## This project was made as a requirement for passing the Instrumentation class. 
+## This is the final project for the Instrumentation class. 
 Authors: Hiram Herrera & Osvaldo Rosales
 
 University: Universidad Autónoma de Baja California
